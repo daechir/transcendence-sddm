@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Transcendence
+Description=Minimal SDDM theme
+Type=sddm-theme
+Author=Daechir
+Copyright=(c) 2020 Deachir
+Screenshot=
+License=GPL
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=
+Theme-Id=Transcendence
+Theme-API=2.0
+Website=https://github.com/daechir
